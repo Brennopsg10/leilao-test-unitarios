@@ -1,0 +1,11 @@
+Avaliador (Alura\Leilao\Tests\Service\Avaliador)
+ [x] Avaliador deve econtrar o maior valor de lance with data set "Ordem Crescente"
+ [x] Avaliador deve econtrar o maior valor de lance with data set "Ordem Decrescente"
+ [x] Avaliador deve econtrar o maior valor de lance with data set "Ordem Aleatoria"
+ [x] Avaliador deve econtrar o menor valor de lance with data set "Ordem Crescente"
+ [x] Avaliador deve econtrar o menor valor de lance with data set "Ordem Decrescente"
+ [x] Avaliador deve econtrar o menor valor de lance with data set "Ordem Aleatoria"
+ [x] Avaliador deve buscar os 3 maiores lances with data set "Ordem Crescente"
+ [x] Avaliador deve buscar os 3 maiores lances with data set "Ordem Decrescente"
+ [x] Avaliador deve buscar os 3 maiores lances with data set "Ordem Aleatoria"
+
